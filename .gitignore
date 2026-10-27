@@ -1,0 +1,11 @@
+# downloaded and generated data (re-create with R/00_setup.R to R/04)
+data/raw/
+data/tidy/
+output/
+# R
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+# presentations and local files
+*.pptx
