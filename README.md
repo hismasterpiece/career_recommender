@@ -1,5 +1,4 @@
-# Explainable career recommender (dissertation project)
-
+# Explainable career recommender (
 Weeks 1-8 code: data acquisition, tidying and first exploratory analysis in R.
 
 ## How to open
